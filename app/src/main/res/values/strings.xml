@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="first">This is about me, my name is Alan Hite you probably know me
+        because I was in you class beforeThis is about me, my name is Alan Hite you probably know me
+        because I was in you class before</string>
+    <string name="second">The Legend of Zelda is by far one of my favorite game series of all time.
+        Its one of my favorites is because I love to explore new worlds and find new things inside of them.</string>
+    <string name="third">Im really interested in space and I wish we would find something out there.
+        I really hope that we will be able to go out into space and explore a new world. That is one of my dreams one day.
+        I also like space games because of this reason.</string>
+    <string name="fourth">My family consists of 6 people I am the youngest out of 4 kids one of my brothers are married and
+        going to slcc and the others are at UVU.(Had to change everything about this page because it didn\'t feel like working)</string>
+    <string name="fifth">My planes for the future are to either go into game development or go into some sort of engineering.
+        I am probably go to slick for my generals and then go into the college that I would later find out</string>
+    <string name="title_activity_game">"Gaming! "</string>
+    <string name="otherScreen">The other String </string>
+    <string name="title_activity_space">Space!</string>
+    <string name="title_activity_family">Family</string>
+    <string name="title_activity_future">Future</string>
+    <string name="Previous">Previous Page</string>
+
+</resources>
